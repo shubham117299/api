@@ -6,7 +6,10 @@ JSC.Chart('chartDiv', {
              {x: 'Apples', y: 50},
              {x: 'Oranges', y: 42},
              {x: 'banana', y: 50},
-             {x: 'fruits', y: 10}
+             {x: 'fruits', y: 10},
+             {x: 'Apples', y: 50},
+             {x: 'Oranges', y: 42},
+             {x: 'banana', y: 50}
           ]
        }
     ]
